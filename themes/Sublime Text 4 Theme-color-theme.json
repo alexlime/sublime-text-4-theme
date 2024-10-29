@@ -193,6 +193,15 @@
 		},
 		{
 			"scope": [
+				"meta.embedded.expression",
+				"variable.other.readwrite"
+			],
+			"settings": {
+				"foreground": "#ffffff"
+			}
+		},
+		{
+			"scope": [
 				"punctuation.definition"
 			],
 			"settings": {
